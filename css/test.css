@@ -14,3 +14,8 @@
         color: #00065c;
         margin-left: 50px;
 }
+.upperstage{
+    background-image: url(../images/image1.png);
+    background-size: cover;
+    height: 400px;
+}
