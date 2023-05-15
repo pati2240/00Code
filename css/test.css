@@ -48,9 +48,11 @@
     padding: 20px;
 }
 .gallery img{
-    border: 1px solid red;
-    margin: 23px;
+    margin: 13px;
+    padding: .5em;
+    border: 5px solid rgba(0, 0, 0, 0.219);
 }
+
 .footer{
     background-color: #00065c;
     border-bottom-left-radius: 20px;
