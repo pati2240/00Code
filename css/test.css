@@ -43,11 +43,12 @@
     color: #b9d3fd;
 }
 .icons span{
-    margin: 20px 90px 0px 24px;
+    margin: 20px 0px 0px 83px;
 }
 .gallery h1{
     text-align: center;
     font-family: roboto;
+    color: #00065c;
 }
 .gallery{
     padding: 20px;
